@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Prakt3</string>
+    <string name="textName">Гусев Сергей, 313 гр</string>
+    <string name="textFrom">From: </string>
+    <string name="textTo">To</string>
+    <string name="textPoints">...</string>
+    <string name="btnConvert">Convert</string>
+</resources>
